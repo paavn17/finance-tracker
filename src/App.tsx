@@ -25,7 +25,7 @@ function App() {
               </FinancialRecordsProvider>
             }
           />
-          <Route path="/auth" element={<Auth />} />
+          <Route path="/https://finance-tracker-two-xi.vercel.app/" element={<Auth />} />
         </Routes>
       </div>
     </Router>
